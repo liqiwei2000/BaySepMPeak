@@ -1,0 +1,12 @@
+sample_1	1.063
+sample_2	1.044
+sample_3	1.479
+sample_4	0.848
+sample_5	1.1
+sample_6	0.967
+sample_7	1.042
+sample_8	0.464
+sample_9	1.468
+sample_10	0.917
+sample_11	0.968
+sample_12	1.073

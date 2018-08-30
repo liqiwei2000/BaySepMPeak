@@ -1,0 +1,13 @@
+ip	case	ip*case
+sample_1	1	0	0
+sample_2	1	0	0
+sample_3	1	0	0
+sample_4	0	0	0
+sample_5	0	0	0
+sample_6	0	0	0
+sample_7	1	1	1
+sample_8	1	1	1
+sample_9	1	1	1
+sample_10	0	1	0
+sample_11	0	1	0
+sample_12	0	1	0
